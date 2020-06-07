@@ -1,8 +1,12 @@
 {
-  "name": "robofriends",
+  "name": "robots",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://stt888.github.io/robofriends",
+=======
+  "homepage": "https://stt888.github.io/robots",
+>>>>>>> e2071ff5e551662939fa642cdf20b6ecf465a115
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -22,10 +26,14 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "gh-pages": "^2.2.0",
     "react-test-renderer": "^16.13.1",
     "sinon": "^9.0.2"
+=======
+    "gh-pages": "^2.2.0"
+>>>>>>> e2071ff5e551662939fa642cdf20b6ecf465a115
   }
 }
